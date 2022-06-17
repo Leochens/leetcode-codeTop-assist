@@ -1,6 +1,6 @@
 # leetcode-codeTop-assist
 在LeetCode刷题界面 快速获得codeTop上的数据进行展示 以供参考
-
+> 本脚本一切数据均来源于codeTop (https://codetop.cc/home)
 # 前置条件
 这里已经假设您安装好了 **Tampermonkey(油猴脚本浏览器插件)** 并且至少了解如何使用其安装用户脚本。
 # 使用说明
