@@ -29,7 +29,7 @@
 ![Alt](./imgs/click-comment.png)
 ![Alt](./imgs/after-click-comment.png)
 ## Q&A
-1. 为什么我没有 `查看codeTop评论` 这个按钮呢？
+1. 为什么我没有 `查看codeTop评论` 这个按钮呢？或者这个按钮总提示找不到元素。
 > 可能是因为你的token未配置或者token过期 再重新按照步骤配置一下之后刷新试试
 2. 为什么查看的codeTop评论是一片空白？
 > ... 那是因为codeTop上对这题也没人评论
